@@ -1,0 +1,6 @@
+owner=536126359966187530
+prefix=A
+game=Thelp _ Aplay
+stayinchannel=true
+songinstatus=false
+token=NTU0NDI2MzM3NzMzOTAyMzcx.D2cd6A.78XJCl--CCwteuBg41glf39-1pg
